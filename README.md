@@ -28,13 +28,14 @@ You can download dataset in http://archive.ics.uci.edu/ml/index.php
 If you find our approach useful in your research, please consider citing:
 
   @article {DOGC, 
-
+  
     title   = {Discrete Optimal Graph Clustering}, 
 
     author  = {Yudong Han and Lei Zhu and Zhiyong Cheng and Jingjing Li and Xiaobai Liu}, 
 
     journal = {IEEE Transactions on Cybernetics}, 
+    
+    DOI     = {10.1109/TCYB.2018.2881539}, 
 
     year    = {2018}
-
   }
